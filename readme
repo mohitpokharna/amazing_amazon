@@ -1,4 +1,4 @@
-Scrapes Amazon's sellers details
+Scrapes Amazon's seller details
 
 If your networking environment requires outbound network connections to go through a HTTP or HTTPS proxy, configure it using Sys.setnv(). 
 eg: Sys.setenv(http_proxy="10.3.100.207:8080")
